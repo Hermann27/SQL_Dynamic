@@ -1,0 +1,37 @@
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\bin\Debug\SQL_Dynamic.exe
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\bin\Debug\SQL_Dynamic.pdb
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\bin\Debug\SQL_Dynamic.xml
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.Form1.resources
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.Resources.resources
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.vbproj.GenerateResource.Cache
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.exe
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.xml
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.pdb
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.FrmMatiere.resources
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.FrmEtudiant.resources
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.FrmAnneeAcademic.resources
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.FrmEtudiant_AnneAcademic.resources
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.FrmEtudiant_Matiere.resources
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.FrmMatiere_AnneeAcademic.resources
+C:\Users\hermann\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.FrmInterface.resources
+J:\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.exe
+J:\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.xml
+J:\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.pdb
+J:\SQL_Dynamic\SQL_Dynamic\bin\Debug\SQL_Dynamic.exe
+J:\SQL_Dynamic\SQL_Dynamic\bin\Debug\SQL_Dynamic.pdb
+J:\SQL_Dynamic\SQL_Dynamic\bin\Debug\SQL_Dynamic.xml
+J:\SQL_Dynamic\SQL_Dynamic\obj\Debug\ResolveAssemblyReference.cache
+J:\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.FrmAnneeAcademic.resources
+J:\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.FrmEtudiant.resources
+J:\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.FrmEtudiant_AnneAcademic.resources
+J:\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.FrmEtudiant_Matiere.resources
+J:\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.FrmInterface.resources
+J:\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.FrmMatiere_AnneeAcademic.resources
+J:\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.Form1.resources
+J:\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.FrmMatiere.resources
+J:\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.Resources.resources
+J:\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.vbproj.GenerateResource.Cache
+D:\Travaux Pratique Niveau 2\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.exe
+D:\Travaux Pratique Niveau 2\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.xml
+D:\Travaux Pratique Niveau 2\SQL_Dynamic\SQL_Dynamic\obj\Debug\SQL_Dynamic.pdb
